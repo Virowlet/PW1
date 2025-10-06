@@ -1,0 +1,83 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: #000000;
+    text-shadow: 2px 2px 5px #0000004d;
+}
+body {
+    text-align: center;
+    color: #000000;
+    background-color: #add1e9;
+    margin: auto 0%;
+}
+ #section1de3{
+    display: flex;
+    border-radius: 300px;
+    float: left;
+    text-shadow: 2px 2px 5px #0000004d;
+ }
+ #section2de3{
+    display: flex;
+    border-radius: 300px;
+    float: left;
+    text-shadow: 2px 2px 5px #0000004d;
+ }
+ #section3de3{
+    display: flex;
+    border-radius: 300px;
+    float: left;
+    text-shadow: 2px 2px 5px #0000004d;
+ }
+a {
+    text-decoration: none;
+    color: #27034b;
+}
+.textosection1de3 {
+    background-color: #add1e9;;
+    font-size: 25px;
+    margin: 0%;
+    border-radius: 15%;
+}
+.textosection2de3 {
+    background-color: #add1e9;;
+    font-size: 20px;
+    margin: 0%;
+    border-radius: 15%;
+}
+.textosection3de3 {
+    background-color: #add1e9;;
+    font-size: 30px;
+    margin: 0%;
+    border-radius: 15%;
+}
+img {
+    width: 100%;
+    border-radius: 20%;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.figuresection1de3 {
+    width: 32%;
+    border-radius: 20%;
+}
+.figuresection2de3 {
+    width: 25%;
+    border-radius: 30%;
+}
+.figuresection3de3 {
+    width: 50%;
+    border-radius: 30%;
+}
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    background-color: #c8d3ec;
+}
+header{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
