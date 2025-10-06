@@ -1,0 +1,61 @@
+header {
+    color: chocolate;
+    text-align: center;
+    display: flex;
+    font-size: 15px;
+}
+#Pg{
+    background-color: #f8f3ed;
+    box-shadow: 5px 5px 10px 2px #84828280;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Pokedex{
+    background-color: #f8f3ed;
+    box-shadow: 5px 5px 10px 2px #db0808ed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Appm{
+    background-color: #f8f3ed;
+    box-shadow: 5px 5px 10px 2px #e76508e2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Animacoes{
+    background-color: #f8f3ed;
+    box-shadow: 5px 5px 10px 2px #e2b30bef;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Tcg{
+    background-color: #f8f3ed;
+    box-shadow: 5px 5px 10px 2px #03850980;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Principal{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#TextoP{
+    font-size: 30px;
+    color: #ffff;
+    background-color: black;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-block: 0%;
+}
+#Secundario{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    display: flex;
+    transition: all;
+}
+
+.Img{
+    
+    gap: 2%;
+}
